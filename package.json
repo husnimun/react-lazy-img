@@ -1,6 +1,6 @@
 {
   "name": "react-lazy-img",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "react-lazy-img React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -27,11 +27,20 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Husni Munaya",
+  "homepage": "https://github.com/husnimun/react-lazy-img#readme",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husnimun/react-lazy-img.git"
+  },
   "keywords": [
     "react-component"
-  ]
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "bugs": {
+    "url": "https://github.com/husnimun/react-lazy-img/issues"
+  }
 }
