@@ -25,7 +25,7 @@
   "devDependencies": {
     "nwb": "0.21.x",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react-dom": "^16.4.2"
   },
   "author": "Husni Munaya",
   "homepage": "https://github.com/husnimun/react-lazy-img#readme",
